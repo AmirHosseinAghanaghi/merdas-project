@@ -1,0 +1,16 @@
+.info{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 20px;
+}
+
+.ProuductInfo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.carouselImage{
+    width: 500px;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3vrTUU3CKbUDThpm8aZzFXdTmai6PodNfXA&usqp=CAU) no-repeat scroll 0 0;
+}
